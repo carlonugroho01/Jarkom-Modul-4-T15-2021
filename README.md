@@ -8,7 +8,10 @@ Kelompok T15
 ---
 
 ## Topologi pada CPT
-!!! Fi tolong taro SS topologi di Packet Tracer !!!
+![1](https://user-images.githubusercontent.com/34973363/143684269-ed6a0147-0198-490d-9368-5a27b45fa95d.png)
+
+## VLSM-CPT
+![2](https://user-images.githubusercontent.com/34973363/143684282-b1c02e48-0546-4cf3-b0df-6deb39e6dbeb.png)
 
 ## Topologi pada GNS3
 ![Untitled (1)](https://user-images.githubusercontent.com/63065991/143442143-168859e0-63b6-496f-9c44-24b562581f21.png)
@@ -337,3 +340,4 @@ iface eth0 inet static
 	netmask 255.255.255.252
             gateway 10.49.67.41
 ```
+
